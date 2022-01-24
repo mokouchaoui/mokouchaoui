@@ -82,7 +82,7 @@
 >
 > <p>{office_character}</p>
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
+_Quote requested from [The Office API](https://www.officeapi.dev/api)_
 
 Check back at the top of the hour for a new quote!
 
