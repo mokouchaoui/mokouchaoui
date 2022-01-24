@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokouchaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mokouchaoui" /> </p>
 
+![mokoucha 42 stats](https://badge42.herokuapp.com/api/stats/mokoucha)
+
 <i>Proficient in All operating systems(Linux, MAC, Windows) and PC with advanced knowledge of Programming Languages HTML CSS JS BOOTSTRAP JQuery JavaScript Frameworks. Git/Version Control,
 </i>
 
