@@ -78,9 +78,9 @@
 
 ## 📣 How about an Office quote before you go?
 
-> {office_quote}
+> {data}
 >
-> <p>{office_character}</p>
+> <p>{character}</p>
 
 _Quote requested from [The Office API](https://www.officeapi.dev/api)_
 
