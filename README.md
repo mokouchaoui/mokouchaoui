@@ -107,7 +107,7 @@ Check back at the top of the hour for a new quote!
 
 > ### Want to know how I made this README?
 >
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
+> Check out this [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
 
 <br>
 
