@@ -8,8 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokouchaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mokouchaoui" /> </p>
 
 
-[![mokoucha's 42 stats](https://badge42.vercel.app/api/v2/cl1kxr64e028609jmgc9kut79/stats?cursusId=21&coalitionId=158)](https://github.com/JaeSeoKim/badge42)
-
+[![mokoucha's 42 stats](https://badge.mediaplus.ma/greenbinary/mokoucha?1337Badge=off)](https://github.com/oakoudad/badge42)
 <i>Proficient in All operating systems(Linux, MAC, Windows) and PC with advanced knowledge of Programming Languages HTML CSS JS BOOTSTRAP JQuery JavaScript Frameworks. Git/Version Control,
 </i>
 
