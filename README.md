@@ -1,9 +1,13 @@
+
 <h1 align="center">Hi 👋, I'm Mohamed Kouchaoui</h1>
 
 
 
 
 <h3 align="center">A passionate Blockchain developer from Morocco</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=61F700&lines=Thanks+For+Visiting+My+Github+Account.....;If+you+need+any+Help+Just+Contact+Me)](https://git.io/typing-svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokouchaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mokouchaoui" /> </p>
 
