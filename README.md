@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">A passionate Blockchain developer from Morocco</h3>
+<h3 align="center">A passionate Data Analyst from Morocco</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=61F700&lines=Thanks+For+Visiting+My+Github+Account.....;If+you+need+any+Help+Just+Contact+Me)](https://git.io/typing-svg)
 
@@ -43,7 +43,7 @@
 
 - 🔭 I’m currently Student on **42 Heilbronn**
 
-- 🌱 I’m currently learning **Blockchain and C language**
+- 🌱 I’m currently learning **Data science and C language**
 
 - 💬 Ask me about **C, Js, Cybersecurity**
 
