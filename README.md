@@ -22,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" alt="python" width="40" height="40"/> 
+<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png](https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png)" alt="python" width="40" height="40"/> 
 </a> 
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
