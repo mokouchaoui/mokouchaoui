@@ -166,3 +166,6 @@ Check back at the top of the hour for a new quote!
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mohamedkouL"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedkouL" /></a></p>  <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mokoucha" /></a></p><br><br><br>
 
+ ![Snake animation](https://github.com/ahmedsafwat101/ahmedsafwat101/blob/output/github-contribution-grid-snake.svg)
+<br/>
+
