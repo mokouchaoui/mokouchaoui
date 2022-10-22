@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Data science and C language**
 
-- 💬 Ask me about **C, Js, Cybersecurity**
+- 💬 Ask me about **C, JS, PYTHON**
 
 - 📫 How to reach me **mokoucha@student.42heilbronn.de**
 
