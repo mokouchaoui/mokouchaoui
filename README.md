@@ -87,7 +87,7 @@
 
 <br>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/gif3.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/mokouchaoui/mokouchaoui/blob/master/gif3.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currently Student on **42 Heilbronn**
 
