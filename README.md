@@ -11,8 +11,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokouchaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mokouchaoui" /> </p>
 
+<p align="center">
+  <a href="https://github.com/ahmedsafwat101/github-widgetbox">
+    <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=mokouchaoui&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
+  </a>
+</p>
 
-[![mokoucha's 42 stats](https://badge42.vercel.app/api/v2/cl1kxr64e028609jmgc9kut79/stats?cursusId=21&coalitionId=158)](https://github.com/JaeSeoKim/badge42)<i>Proficient in All operating systems(Linux, MAC, Windows) and PC with advanced knowledge of Programming Languages HTML CSS JS BOOTSTRAP JQuery JavaScript Frameworks. Git/Version Control,
+
+<i>Proficient in All operating systems(Linux, MAC, Windows) and PC with advanced knowledge of Programming Languages HTML CSS JS BOOTSTRAP JQuery JavaScript Frameworks. Git/Version Control,
 </i>
 
 <h3 align="left">Languages and Tools:</h3>
