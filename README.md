@@ -9,17 +9,27 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=61F700&lines=Thanks+For+Visiting+My+Github+Account.....;If+you+need+any+Help+Just+Contact+Me)](https://git.io/typing-svg)
 
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokouchaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mokouchaoui" /> </p>
 
-<p align="center">
-  <a href="https://github.com/mokouchaoui/github-widgetbox">
-    <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=mokouchaoui&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
-  </a>
-</p>
 
 
-<i>Proficient in All operating systems(Linux, MAC, Windows) and PC with advanced knowledge of Programming Languages HTML CSS JS BOOTSTRAP JQuery JavaScript Frameworks. Git/Version Control,
-</i>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mokouchaoui/mokouchaoui/main/gif3.gif?raw=true" width="500" height="320" />
+
+- 🔭 I’m currently Student on **42 Heilbronn**
+
+- 🌱 I’m currently learning **Data science and C language**
+
+- 💬 Ask me about **C, Js, Cybersecurity**
+
+- 📫 How to reach me **mokoucha@student.42heilbronn.de**
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -77,25 +87,6 @@
 </div>
 
 <br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-<a href="https://github.com/mokouchaoui">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=mokouchaoui&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
-
-<br>
-
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mokouchaoui/mokouchaoui/main/gif3.gif?raw=true" width="500" height="320" />
-
-- 🔭 I’m currently Student on **42 Heilbronn**
-
-- 🌱 I’m currently learning **Data science and C language**
-
-- 💬 Ask me about **C, Js, Cybersecurity**
-
-- 📫 How to reach me **mokoucha@student.42heilbronn.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
