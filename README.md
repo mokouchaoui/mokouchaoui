@@ -88,11 +88,6 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kouchaoui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kouchaoui" height="30" width="40" /></a>
-</p>
-
 
 <br>
 <details>
@@ -153,10 +148,7 @@ Check back at the top of the hour for a new quote!
 
 <br>
 
-
+<!---
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mohamedkouL"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedkouL" /></a></p>  <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mokoucha" /></a></p><br><br><br>
-
- ![Snake animation](https://github.com/mokouchaoui/mokouchaoui/blob/output/github-contribution-grid-snake.svg)
-<br/>
-
+<p><a href="https://www.buymeacoffee.com/mohamedkouL"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mohamedkouL" /></a></p>  <img align="right" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mokoucha" /></a></p><br><br>
+-->
