@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mokouchaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mokouchaoui" /> </p>
 
 <p align="center">
-  <a href="https://github.com/ahmedsafwat101/github-widgetbox">
+  <a href="https://github.com/mokouchaoui/github-widgetbox">
     <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=mokouchaoui&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
   </a>
 </p>
