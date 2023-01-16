@@ -18,9 +18,9 @@
 
 - 🔭 I’m currently Student on **42 Heilbronn**
 
-- 🌱 I’m currently learning **Data science and C language**
+- 🌱 I’m currently learning **Data science and C++ language**
 
-- 💬 Ask me about **C, JS, PYTHON**
+- 💬 Ask me about **C, JS, PYTHON, Data Science**
 
 - 📫 How to reach me **mokoucha@student.42heilbronn.de**
 
