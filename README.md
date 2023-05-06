@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">A passionate Data Analyst from Morocco</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=61F700&lines=Thanks+For+Visiting+My+Github+Account.....;If+you+need+any+Help+Just+Contact+Me)](https://git.io/typing-svg)
 
