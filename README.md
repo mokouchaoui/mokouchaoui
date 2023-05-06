@@ -17,7 +17,7 @@
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mokouchaoui/mokouchaoui/main/gif3.gif?raw=true" width="500" height="320" />
 
 
-- 🌱 I’m currently learning **Data science and C++ language**
+- 🌱 I’m currently learning **Software Engineering and Data Analytics and C++ language**
 
 - 💬 Ask me about **C, JS, PYTHON, Data Analyst**
 
