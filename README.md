@@ -21,8 +21,7 @@
 
 - 💬 Ask me about **C, JS, PYTHON, Data Analyst**
 
-- 📫 How to reach me **mohamed.kouchaoui19@gmail.com
-**
+- 📫 How to reach me **mohamed.kouchaoui19@gmail.com**
 
 
 <br>
