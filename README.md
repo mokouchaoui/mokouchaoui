@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Software Engineering and Data Analytics and C++ language**
 
-- 💬 Ask me about **C, JS, PYTHON, Data Analyst**
+- 💬 Ask me about **C, JS, PYTHON, Data Analytics**
 
 - 📫 How to reach me **mohamed.kouchaoui19@gmail.com**
 
