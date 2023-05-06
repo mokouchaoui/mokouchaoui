@@ -16,11 +16,10 @@
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mokouchaoui/mokouchaoui/main/gif3.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently Student on **42 Heilbronn**
 
 - 🌱 I’m currently learning **Data science and C++ language**
 
-- 💬 Ask me about **C, JS, PYTHON, Data Science**
+- 💬 Ask me about **C, JS, PYTHON, Data Analyst**
 
 - 📫 How to reach me **mokoucha@student.42heilbronn.de**
 
