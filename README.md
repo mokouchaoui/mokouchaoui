@@ -16,6 +16,7 @@
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mokouchaoui/mokouchaoui/main/gif3.gif?raw=true" width="500" height="320" />
 
+- 🎓 I hold a **Bachelor's degree in DevOps Engineering**
 
 - 🌱 I’m currently learning **Software Engineering and Data Analytics and C++ language**
 
