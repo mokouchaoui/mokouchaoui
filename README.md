@@ -17,7 +17,6 @@
 
 
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mokouchaoui/mokouchaoui/main/gif3.gif?raw=true" width="500" height="320" />
 
 - 🎓 I hold a **Bachelor's degree in DevOps Engineering**
 - 🌍 Based in Morocco, targeting global markets 🇺🇸🇬🇧🇨🇦
@@ -26,13 +25,6 @@
 - 📫 How to reach me **mohamed.kouchaoui19@gmail.com**
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ### 🛠 Tech Stack
 
