@@ -8,9 +8,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=61F700&lines=Thanks+For+Visiting+My+Github+Account.....;If+you+need+any+Help+Just+Contact+Me)](https://git.io/typing-svg)
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mokouchaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mokouchaoui" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mokouchaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mokouchaoui" />
+  <img src="https://img.shields.io/badge/-Software%20Engineer-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/-DevSecOps%20Specialist-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Morocco-🇲🇦-red?style=flat-square" />
+  </p>
 
 
 
